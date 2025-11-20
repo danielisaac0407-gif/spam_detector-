@@ -18,7 +18,7 @@ def mostrar_mensaje():
 label = tk.Label(ventana, text="presiona el boton para ver un mensaje")
 label.pack(pady=10)
 
-boton = tk.Button(ventana, text="haz clic aqui", command=mostrar_mensaje)
+boton = tk.Button(ventana, text="haz clic aquu", command=mostrar_mensaje)
 boton.pack(pady=10)
 
 
